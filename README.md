@@ -12,4 +12,4 @@ Este repositorio contiene los materiales del proyecto:
 
 ## 🔗 También disponible en la plataforma
 
-[![Acceder a la plataforma]([https://img.shields.io/badge/Acceder-Plataforma-blue?style=for-the-badge)](https://enlace-a-tu-plataforma.com](https://www.simulabsphysics.com/electromagnetism/evbkv3))
+[![Acceder a la plataforma](https://img.shields.io/badge/Acceder-Plataforma-blue?style=for-the-badge)]([https://enlace-a-tu-plataforma.com](https://www.simulabsphysics.com/electromagnetism/evbkv3hd))
