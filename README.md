@@ -9,3 +9,7 @@ Este repositorio contiene los materiales del proyecto:
 ## Cómo usar la simulación
 1. Descarga el archivo `.ggb`.
 2. Ábrelo con [GeoGebra](https://www.geogebra.org/download) (o súbelo a la versión web).
+
+## 🔗 También disponible en la plataforma
+
+[![Acceder a la plataforma]([https://img.shields.io/badge/Acceder-Plataforma-blue?style=for-the-badge)](https://enlace-a-tu-plataforma.com](https://www.simulabsphysics.com/electromagnetism/evbkv3))
